@@ -1,4 +1,4 @@
-### Hi there 👋, Piotr Warchol
+### Hi there 👋, I am Piotr Warchol
 #### I am a Mainframe Developer with a passion for AI
 ![I am a Mainframe Developer with a passion for AI](https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn8qb80cozdu3kpizefle.png)
 
