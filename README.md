@@ -51,5 +51,4 @@ I'm actively transitioning into ML engineering roles focused on industrial AI, G
 
 ### 📫 Connect
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/piotrwarchol23/)
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/PiotrWarchol)
+[LinkedIn](https://www.linkedin.com/in/piotrwarchol23/) — [GitHub](https://github.com/PiotrWarchol)
