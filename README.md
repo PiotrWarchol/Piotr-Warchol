@@ -1,55 +1,17 @@
-### Hi there 👋 I'm Piotr Warchol
+### Hi there 👋, I am Piotr Warchol
+#### I am a Mainframe Developer with a passion for AI
+![I am a Mainframe Developer with a passion for AI](https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn8qb80cozdu3kpizefle.png)
 
-#### Software Engineer & ML Practitioner — Building Production AI Systems
+I'm Piotr, and I currently work as a Programmer Analyst that focuses on Mainframe development with COBOL. I studied Artificial Intelligence in my masters program and find that that is what I am most passionate about when it comes to tech. I want to take some of the software skills that I have acquired in my current job and marry them with the tools and skills that I have acquired in my masters program and use GitHub to help showcase that.
 
-I'm a Software Engineer II at FIS with 4 years of enterprise DevOps and automation experience, combining that foundation with a Master's degree in Computer Science (AI concentration) to build production-grade machine learning systems.
+Skills: Python / SQL / COBOL / JCL
 
-I'm actively transitioning into ML engineering roles focused on industrial AI, GenAI, and healthcare machine learning.
+- 🔭 I’m currently working on This Page with new projects to be detailed below. 
+- 🌱 I’m currently learning everything that I can about AI 
+- 🤔 I’m looking for help with Breaking into the Data Science World 
+- 💬 Ask me about AI and some beer recommendations. 
+- 📫 How to reach me: https://www.linkedin.com/in/piotrwarchol23/ 
 
----
 
-### 🤖 ML Portfolio
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PiotrWarchol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/piotrwarchol23/)  
 
-| Project | Domain | Tech | Performance |
-|---|---|---|---|
-| [Manufacturing Defect Detection](https://github.com/PiotrWarchol/defect-detection) | Computer Vision | ResNet18, PyTorch, Grad-CAM, FastAPI, Docker | 99.86% accuracy |
-| [Predictive Maintenance System](https://github.com/PiotrWarchol/predictive-maintenance) | Time Series | LSTM, PyTorch, FastAPI, Docker | 12.99 RMSE |
-| [Baseball RAG Assistant](https://github.com/PiotrWarchol/baseball-rag-assistant) | GenAI / RAG | LangChain, ChromaDB, GPT-4o-mini, Azure, FastAPI | Production deployed |
-| [Tool Review Sentiment Classifier](https://github.com/PiotrWarchol/tool-sentiment-classifier) | NLP | DistilBERT, PyTorch, HuggingFace | 89.5% accuracy |
-
----
-
-### 🛠 Skills
-
-**ML & AI:** PyTorch, HuggingFace Transformers, LangChain, ChromaDB, scikit-learn, Grad-CAM, LSTM, ResNet18, DistilBERT
-
-**Data:** Pandas, NumPy, Matplotlib, SQL Server, Tableau
-
-**DevOps & Cloud:** GitHub Actions, Docker, Azure Container Apps, Bitbucket, JFrog, Linux
-
-**Languages:** Python, SQL, Java, PowerShell, COBOL, JCL
-
-**Automation:** UiPath (RPA development)
-
----
-
-### 📚 Education
-
-🎓 MS Computer Science — Artificial Intelligence Concentration — Lewis University
-
-🎓 BS Biology — University of Illinois at Chicago
-
----
-
-### 🌱 Currently
-
-- 📖 Studying for AWS Machine Learning Engineer Associate certification
-- 🔭 Building industrial ML portfolio projects for manufacturing and healthcare domains
-- 💼 Targeting ML Engineer and AI Engineer roles in the Milwaukee area
-
----
-
-### 📫 Connect
-
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/piotrwarchol23/)
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/PiotrWarchol)
